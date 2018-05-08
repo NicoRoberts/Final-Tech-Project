@@ -1,0 +1,16 @@
+/*Style of the website - CSS*/
+
+.carousel-inner {
+    height: 244px;
+    width: 1920px;
+}
+#carouselExampleIndicators {
+    height: 244px;
+}
+body {
+    background-image: linear-gradient(#C79D7D,#472C17);
+    background-repeat: no-repeat;
+}
+
+
+    
