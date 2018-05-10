@@ -1,16 +1,38 @@
 /*Style of the website - CSS*/
 
+
+/*carousel modifications*/
 .carousel-inner {
     height: 244px;
-    width: 1920px;
 }
 #carouselExampleIndicators {
     height: 244px;
 }
+
+
+/*carousel image modifications*/
+.carousel-item {
+    height: 100%;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+.item-1 {
+    background-image: url("https://www.alaskamagazine.com/wp-content/uploads/2015/07/images_contests_photocontest2015_subs_55bba6180b696-akcontest2015_kenairiverfinal.jpg"); 
+}
+.item-2 {
+    background-image: url("https://www.alaskamagazine.com/wp-content/uploads/2015/07/images_contests_photocontest2015_subs_55bba6180b696-akcontest2015_kenairiverfinal.jpg"); 
+}
+.item-3 {
+    background-image: url("https://www.alaskamagazine.com/wp-content/uploads/2015/07/images_contests_photocontest2015_subs_55bba6180b696-akcontest2015_kenairiverfinal.jpg"); 
+}
+
+
+/*site background*/
 body {
     background-image: linear-gradient(#C79D7D,#472C17);
     background-repeat: no-repeat;
 }
 
+/*Nav Bar Style*/
 
-    
+Nav bar style 68b57980
