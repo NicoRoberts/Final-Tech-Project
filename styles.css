@@ -3,10 +3,10 @@
 
 /*carousel modifications*/
 .carousel-inner {
-    height: 244px;
+    height: 350px;
 }
 #carouselExampleIndicators {
-    height: 244px;
+    height: 350px;
 }
 
 
@@ -20,19 +20,131 @@
     background-image: url("https://www.alaskamagazine.com/wp-content/uploads/2015/07/images_contests_photocontest2015_subs_55bba6180b696-akcontest2015_kenairiverfinal.jpg"); 
 }
 .item-2 {
-    background-image: url("https://www.alaskamagazine.com/wp-content/uploads/2015/07/images_contests_photocontest2015_subs_55bba6180b696-akcontest2015_kenairiverfinal.jpg"); 
+    background-image: url("http://www.juneteenthalaskaalcan.com/wp-content/uploads/2017/05/ChugachMountains.jpg"); 
 }
 .item-3 {
-    background-image: url("https://www.alaskamagazine.com/wp-content/uploads/2015/07/images_contests_photocontest2015_subs_55bba6180b696-akcontest2015_kenairiverfinal.jpg"); 
+    background-image: url("https://i0.wp.com/adventuresoflilnicki.com/wp-content/uploads/2017/05/562A6982-3.jpg?ssl=1"); 
 }
 
 
 /*site background*/
 body {
-    background-image: linear-gradient(#C79D7D,#472C17);
+    background-image: linear-gradient(to right, #C79D7D,#472C17);
     background-repeat: no-repeat;
 }
 
 /*Nav Bar Style*/
 
-Nav bar style 68b57980
+.bg-light {
+    background-color: #472C17!important;
+}
+
+.navbar-nav {
+   float: left;
+   margin: 0;
+   margin-left: 30%;
+}
+
+/*Box Text Style*/
+
+#box {
+    background-color:white;
+
+    width: 50%;
+    min-width:0%;
+    min-height:0%;
+    max-width:100%;
+    
+
+    border-width: 5px 10px;
+    border-style: none;
+    border-color:#2D1B7A;
+    box-shadow: 5px 10px black black;
+    border-radius: 10px 10px 10px 10px;
+
+    position: relative;
+    bottom:60px;
+    margin: 20px auto;
+    padding: 20px;
+
+}
+
+/*Picture Styling*/
+
+.cabinleft img {
+    width:25%;
+    position: relative;
+    bottom:850px;
+    box-shadow: 2px 2px 4px 4px black;
+    margin: 10px;
+  
+}
+
+.cabinright img {
+    width:25%;
+    position: relative;
+    bottom:1150px;
+    left:1400px;
+    box-shadow: 2px 2px 4px 4px black;
+    margin: 10px;
+
+}
+
+/*Text Styling*/
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h2 {
+    text-align:center;
+}
+
+h3 {
+    text-align:center;
+}
+
+p {
+    text-indent: 30px;
+    padding:35px 35px;
+}
+
+
+/*Navbar Text Styling*/
+
+
+.navbar-nav > li {
+    padding-right:25px;
+    padding-left:25px;
+
+    font-size:larger;
+   
+}
+
+.nav-link:hover {
+    color:#C79D7D!important;
+}
+
+.nav-link {
+    color:white!important;
+    
+
+}
+
+.navbar-brand {
+    color:white!important;
+    padding-right:25px;
+    padding-left:25px;
+}
+
+.navbar-brand:hover {
+    color:#C79D7D!important;
+}
+
+
+
+
+    
+
