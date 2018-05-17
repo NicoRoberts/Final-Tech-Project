@@ -159,6 +159,15 @@ p {
 }
 
 
+/*Text for the prices page*/
+#pricebox {
+    background-color:white;
+    margin: 20px auto;
+    width: 50%;
+    min-width:0%;
+    min-height:0%;
+    max-width:100%;
+}
 
     
 
