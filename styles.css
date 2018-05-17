@@ -162,6 +162,10 @@ p {
 /*Text for the prices page*/
 #pricebox {
     background-color:white;
+    padding: 20px 20px 20px 20px;
+    border: 3px solid #472C17;
+    box-shadow: 0px 0px 2px 2px grey;
+    background-color:white;
     margin: 20px auto;
     width: 50%;
     min-width:0%;
@@ -169,5 +173,29 @@ p {
     max-width:100%;
 }
 
-    
+/*Background for the prices page*/
+#b1 {
+    background-image: url("Background.jpg");
+    background-size:cover;
+    min-width:0%;
+    min-height:0%;
+    max-width:100%;
+}
+
+/*Text for the prices page*/
+#cbtxt {
+    text-align: left;
+    text-indent:30px;
+}
+
+#hstxt {
+    text-align:left;
+    text-indent:30px;
+}
+h4 {
+    text-align:center;
+}
+h5 {
+    text-indent:30px;
+}
 
