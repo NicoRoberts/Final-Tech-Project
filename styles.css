@@ -174,7 +174,7 @@ p {
 }
 
 /*Background for the prices page*/
-#b1 {
+.b1 {
     background-image: url("Background.jpg");
     background-size:cover;
     min-width:0%;
@@ -182,6 +182,31 @@ p {
     max-width:100%;
 }
 
+/*Background for the Overview page*/
+.b2 {
+    background-image: url("Ovrpic.jpg");
+    background-size:cover;
+    min-width:0%;
+    min-height:0%;
+    max-width:100%;
+}
+
+.b3 {
+    background-image: url("https://cdn.history.com/sites/2/2013/11/alaska-salmon-jumping-P.jpeg");
+    background-size:cover;
+    min-width:0%;
+    min-height:0%;
+    max-width:100%;
+    
+}
+
+.b4 {
+    background-image: url("http://i.imgur.com/sZEGti1.jpg");
+    background-size:cover;
+    min-width:0%;
+    min-height:0%;
+    max-width:100%;
+}
 /*Text for the prices page*/
 #cbtxt {
     text-align: left;
@@ -199,3 +224,48 @@ h5 {
     text-indent:30px;
 }
 
+
+/*Overview text box*/
+#Overviewtext {
+    background-color:white;
+    padding: 20px 20px 20px 20px;
+    border: 3px solid #472C17;
+    box-shadow: 0px 0px 2px 2px grey;
+    background-color:white;
+    margin: 20px auto;
+    width: 50%;
+    min-width:0%;
+    min-height:0%;
+    max-width:100%;
+    
+   
+
+}
+
+/*Fishing text box*/
+#fishingtext {
+    background-color:white;
+    padding: 20px 20px 20px 20px;
+    border: 3px solid #472C17;
+    box-shadow: 0px 0px 2px 2px grey;
+    background-color:white;
+    margin: 20px auto;
+    width: 50%;
+    min-width:0%;
+    min-height:0%;
+    max-width:100%;
+}
+
+/*Hiking text box*/
+#hikingtext {
+    background-color:white;
+    padding: 20px 20px 20px 20px;
+    border: 3px solid #472C17;
+    box-shadow: 0px 0px 2px 2px grey;
+    background-color:white;
+    margin: 20px auto;
+    width: 50%;
+    min-width:0%;
+    min-height:0%;
+    max-width:100%;
+}
