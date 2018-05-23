@@ -1,6 +1,11 @@
 /*Style of the website - CSS*/
 
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 /*carousel modifications*/
 .carousel-inner {
     height: 350px;
