@@ -89,7 +89,7 @@ body {
     width:25%;
     position: relative;
     bottom:1150px;
-    left:1275px;
+    left:1400px;
     box-shadow: 2px 2px 4px 4px black;
     margin: 10px;
 
@@ -180,7 +180,7 @@ p {
 
 /*Background for the prices page*/
 .b1 {
-    background-image: url("Background.jpg");
+    background-image: url("Images/Background.jpg");
     background-size:cover;
     min-width:0%;
     min-height:0%;
@@ -189,7 +189,7 @@ p {
 
 /*Background for the Overview page*/
 .b2 {
-    background-image: url("Ovrpic.jpg");
+    background-image: url("Images/Ovrpic.jpg");
     background-size:cover;
     min-width:0%;
     min-height:0%;
